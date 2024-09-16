@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDC340-D5A4-493C-A5BE-F2AF828DF937}|Assignment1_Program_2.csproj|\\\\busdom.colostate.edu\\stu\\classfolders\\cis605\\koneru,saikranth(c837232334)\\assignment_1\\assignment1_program_2\\conecalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDC340-D5A4-493C-A5BE-F2AF828DF937}|Assignment1_Program_2.csproj|\\\\busdom.colostate.edu\\stu\\classfolders\\cis605\\koneru,saikranth(c837232334)\\assignment_1\\assignment1_program_2\\cone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDC340-D5A4-493C-A5BE-F2AF828DF937}|Assignment1_Program_2.csproj|\\\\busdom.colostate.edu\\stu\\classfolders\\cis605\\koneru,saikranth(c837232334)\\assignment_1\\assignment1_program_2\\conecalculations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDC340-D5A4-493C-A5BE-F2AF828DF937}|Assignment1_Program_2.csproj|\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\conecalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDC340-D5A4-493C-A5BE-F2AF828DF937}|Assignment1_Program_2.csproj|\\\\busdom.colostate.edu\\stu\\classfolders\\cis605\\koneru,saikranth(c837232334)\\assignment_1\\assignment1_program_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DDC340-D5A4-493C-A5BE-F2AF828DF937}|Assignment1_Program_2.csproj|\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\conecalculation.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConeCalculations.Designer.cs",
+              "DocumentMoniker": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\ConeCalculations.Designer.cs",
+              "RelativeDocumentMoniker": "ConeCalculations.Designer.cs",
+              "ToolTip": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\ConeCalculations.Designer.cs",
+              "RelativeToolTip": "ConeCalculations.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:08:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cone.cs",
+              "DocumentMoniker": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\Cone.cs",
+              "RelativeDocumentMoniker": "Cone.cs",
+              "ToolTip": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\Cone.cs",
+              "RelativeToolTip": "Cone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:08:01.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConeCalculations.cs [Design]",
+              "DocumentMoniker": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\ConeCalculations.cs",
+              "RelativeDocumentMoniker": "ConeCalculations.cs",
+              "ToolTip": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\ConeCalculations.cs [Design]",
+              "RelativeToolTip": "ConeCalculations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:08:59.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConeCalculations.cs",
+              "DocumentMoniker": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\ConeCalculations.cs",
+              "RelativeDocumentMoniker": "ConeCalculations.cs",
+              "ToolTip": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\ConeCalculations.cs",
+              "RelativeToolTip": "ConeCalculations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:08:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:09:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConeCalculation.resx",
+              "DocumentMoniker": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\ConeCalculation.resx",
+              "RelativeDocumentMoniker": "ConeCalculation.resx",
+              "ToolTip": "\\\\busdom.colostate.edu\\stu\\ClassFolders\\CIS605\\Koneru,SaiKranth(c837232334)\\Assignment_1\\Assignment1_Program_2\\ConeCalculation.resx",
+              "RelativeToolTip": "ConeCalculation.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-29T21:08:36.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
