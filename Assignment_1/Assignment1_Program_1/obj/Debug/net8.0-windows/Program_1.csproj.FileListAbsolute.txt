@@ -1,0 +1,92 @@
+C:\Users\C837232334\source\repos\Assignment_1\bin\Debug\net8.0-windows\Program_1.exe
+C:\Users\C837232334\source\repos\Assignment_1\bin\Debug\net8.0-windows\Program_1.deps.json
+C:\Users\C837232334\source\repos\Assignment_1\bin\Debug\net8.0-windows\Program_1.runtimeconfig.json
+C:\Users\C837232334\source\repos\Assignment_1\bin\Debug\net8.0-windows\Program_1.dll
+C:\Users\C837232334\source\repos\Assignment_1\bin\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Assignment_1.Favorites.resources
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.Properties.Resources.resources
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.csproj.GenerateResource.cache
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfoInputs.cache
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfo.cs
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.csproj.CoreCompileInputs.cache
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.dll
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\refint\Program_1.dll
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\Program_1.genruntimeconfig.cache
+C:\Users\C837232334\source\repos\Assignment_1\obj\Debug\net8.0-windows\ref\Program_1.dll
+C:\Users\C837232334\source\repos\Program_1\bin\Debug\net8.0-windows\Program_1.exe
+C:\Users\C837232334\source\repos\Program_1\bin\Debug\net8.0-windows\Program_1.deps.json
+C:\Users\C837232334\source\repos\Program_1\bin\Debug\net8.0-windows\Program_1.runtimeconfig.json
+C:\Users\C837232334\source\repos\Program_1\bin\Debug\net8.0-windows\Program_1.dll
+C:\Users\C837232334\source\repos\Program_1\bin\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Assignment_1.Favorites.resources
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.Properties.Resources.resources
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.csproj.GenerateResource.cache
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfoInputs.cache
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfo.cs
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.csproj.CoreCompileInputs.cache
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.dll
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\refint\Program_1.dll
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\Program_1.genruntimeconfig.cache
+C:\Users\C837232334\source\repos\Program_1\obj\Debug\net8.0-windows\ref\Program_1.dll
+C:\Users\C837232334\source\repos\Program_1\bin\Debug\net8.0-windows\Favorites.resx
+C:\Users\C837232334\source\repos\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.exe
+C:\Users\C837232334\source\repos\Assignment1_Program_1\bin\Debug\net8.0-windows\Favorites.resx
+C:\Users\C837232334\source\repos\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.deps.json
+C:\Users\C837232334\source\repos\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.runtimeconfig.json
+C:\Users\C837232334\source\repos\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.dll
+C:\Users\C837232334\source\repos\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Assignment_1.Favorites.resources
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.Properties.Resources.resources
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.csproj.GenerateResource.cache
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfoInputs.cache
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfo.cs
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.csproj.CoreCompileInputs.cache
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.dll
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\refint\Program_1.dll
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.genruntimeconfig.cache
+C:\Users\C837232334\source\repos\Assignment1_Program_1\obj\Debug\net8.0-windows\ref\Program_1.dll
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.exe
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Favorites.resx
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.deps.json
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.runtimeconfig.json
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.dll
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.pdb
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Assignment_1.Favorites.resources
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.Properties.Resources.resources
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.csproj.GenerateResource.cache
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.GeneratedMSBuildEditorConfig.editorconfig
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfoInputs.cache
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfo.cs
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.csproj.CoreCompileInputs.cache
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.dll
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\refint\Program_1.dll
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.pdb
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.genruntimeconfig.cache
+\\busdom.colostate.edu\stu\ClassFolders\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\ref\Program_1.dll
+S:\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.dll
+S:\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\refint\Program_1.dll
+S:\CIS605\Koneru,SaiKranth(c837232334)\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.exe
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Favorites.resx
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.deps.json
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.runtimeconfig.json
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.dll
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\bin\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Assignment_1.Favorites.resources
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.Properties.Resources.resources
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.csproj.GenerateResource.cache
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfoInputs.cache
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.AssemblyInfo.cs
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.csproj.CoreCompileInputs.cache
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.dll
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\refint\Program_1.dll
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.pdb
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\Program_1.genruntimeconfig.cache
+C:\Users\C837232334\OneDrive - Colostate\Desktop\Assignment_1\Assignment1_Program_1\obj\Debug\net8.0-windows\ref\Program_1.dll
